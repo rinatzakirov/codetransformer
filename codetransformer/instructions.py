@@ -23,6 +23,7 @@ _uses_name = frozenset({
     'IMPORT_NAME',
     'LOAD_ATTR',
     'LOAD_GLOBAL',
+    'LOAD_METHOD',
     'LOAD_NAME',
     'STORE_ATTR',
     'STORE_GLOBAL',
